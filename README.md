@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 -------
 
-- 🔭 I’m currently working on Angular 12
+- 🔭 I’m currently working on Angular 13
 - 🌱 I’m currently learning Node.JS 16
 - 🌇 Living on Mexico City 
 
