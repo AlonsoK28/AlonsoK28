@@ -8,7 +8,8 @@
 - 🔭 I’m currently working on Angular 14
 - 🌱 I’m currently learning Node.JS 18
 - 🌇 Living on Mexico City 
-- Some frameworks and tools that i´m using
+
+### Some frameworks and tools that i´m using
 <p>
     <img src="https://img.shields.io/badge/-Angular-D22128?style=flat-square&logo=Angular&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -20,7 +21,22 @@
   </p>
 
 -------
+### My lastest Github activity
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alonsok28&count_private=true&show_icons=true&theme=radical">
 </p>
+
+-------
+
+### My featured repos
+#### Angular
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlonsoK28&repo=ng-node-express-example&show_owner=false)](https://github.com/AlonsoK28/ng-node-express-example)
+
+#### Node.Js
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlonsoK28&repo=node-express-example&show_owner=false)](https://github.com/AlonsoK28/node-express-example)
+
+#### Ionic
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlonsoK28&repo=ionic-cordova-camera-example&show_owner=false)](https://github.com/AlonsoK28/ionic-cordova-camera-example)
