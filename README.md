@@ -6,7 +6,7 @@
 -------
   
 - 🔭 I’m currently working on `Angular 14`
-- 🌱 I’m currently learning `Nest`
+- 🌱 I’m currently learning `NestJS`
 - 🌇 Living on Mexico City 
 
 ### Some frameworks and tools that i´m using
