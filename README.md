@@ -5,7 +5,7 @@
 -->
 -------
   
-- 🔭 I’m currently working on `Angular 15`
+- 🔭 I’m currently working on `Angular 16`
 - 🌱 I’m currently learning `NestJS`
 - 🌇 Living on Mexico City 
 
